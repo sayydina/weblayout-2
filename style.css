@@ -16,9 +16,8 @@ nav {
   background-color: #365486;
   padding: 10px;
   display: flex;
-  justify-content: end; 
+  justify-content: end;  
 }
-
 
 nav a {
   color: #c2b8b8;
@@ -29,18 +28,12 @@ nav a {
 
 section {
   padding: 10px;
-  font-size: 25px;
 }
 
 main {
   display: block;
   float: right;
   margin-left: 50px auto;
-}
-
-main img {
-  width: 470px;
-  height: 360px;
 }
 
 footer {
@@ -52,14 +45,4 @@ footer {
   bottom: 0;
   width: 100%;
   margin: 0;
-}
-
-footer a {
-  text-decoration: none;
-  color: blue;
-}
-
-footer h4 {
-  font-size: 15px;
-  margin-bottom: 5px;
 }
